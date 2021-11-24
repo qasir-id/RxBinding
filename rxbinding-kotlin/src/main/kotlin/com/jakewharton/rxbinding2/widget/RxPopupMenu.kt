@@ -2,7 +2,7 @@
 
 package com.jakewharton.rxbinding2.widget
 
-import android.support.annotation.CheckResult
+import androidx.annotation.CheckResult
 import android.view.MenuItem
 import android.widget.PopupMenu
 import com.jakewharton.rxbinding2.internal.AnyToUnit

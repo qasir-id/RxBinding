@@ -2,7 +2,7 @@
 
 package com.jakewharton.rxbinding2.widget
 
-import android.support.annotation.CheckResult
+import androidx.annotation.CheckResult
 import android.widget.Adapter
 import com.jakewharton.rxbinding2.InitialValueObservable
 import kotlin.Suppress

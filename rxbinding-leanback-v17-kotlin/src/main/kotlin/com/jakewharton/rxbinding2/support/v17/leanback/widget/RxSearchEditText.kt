@@ -2,8 +2,8 @@
 
 package com.jakewharton.rxbinding2.support.v17.leanback.widget
 
-import android.support.annotation.CheckResult
-import android.support.v17.leanback.widget.SearchEditText
+import androidx.annotation.CheckResult
+import androidx.leanback.widget.SearchEditText
 import com.jakewharton.rxbinding2.internal.AnyToUnit
 import io.reactivex.Observable
 import kotlin.Suppress

@@ -2,8 +2,8 @@
 
 package com.jakewharton.rxbinding2.widget
 
-import android.support.annotation.CheckResult
-import android.support.annotation.RequiresApi
+import androidx.annotation.CheckResult
+import androidx.annotation.RequiresApi
 import android.view.MenuItem
 import android.widget.Toolbar
 import com.jakewharton.rxbinding2.internal.AnyToUnit

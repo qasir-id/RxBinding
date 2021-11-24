@@ -3,7 +3,7 @@
 package com.jakewharton.rxbinding2.view
 
 import android.graphics.drawable.Drawable
-import android.support.annotation.CheckResult
+import androidx.annotation.CheckResult
 import android.view.MenuItem
 import com.jakewharton.rxbinding2.internal.AnyToUnit
 import io.reactivex.Observable

@@ -2,8 +2,8 @@
 
 package com.jakewharton.rxbinding2.support.v4.widget
 
-import android.support.annotation.CheckResult
-import android.support.v4.widget.NestedScrollView
+import androidx.annotation.CheckResult
+import androidx.core.widget.NestedScrollView
 import com.jakewharton.rxbinding2.view.ViewScrollChangeEvent
 import io.reactivex.Observable
 import kotlin.Suppress

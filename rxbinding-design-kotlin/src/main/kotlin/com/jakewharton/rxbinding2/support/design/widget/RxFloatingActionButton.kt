@@ -2,8 +2,8 @@
 
 package com.jakewharton.rxbinding2.support.design.widget
 
-import android.support.annotation.CheckResult
-import android.support.design.widget.FloatingActionButton
+import androidx.annotation.CheckResult
+import com.google.android.material.floatingactionbutton.FloatingActionButton
 import io.reactivex.functions.Consumer
 import kotlin.Suppress
 

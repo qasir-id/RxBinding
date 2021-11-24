@@ -2,8 +2,8 @@
 
 package com.jakewharton.rxbinding2.view
 
-import android.support.annotation.CheckResult
-import android.support.annotation.RequiresApi
+import androidx.annotation.CheckResult
+import androidx.annotation.RequiresApi
 import android.view.DragEvent
 import android.view.KeyEvent
 import android.view.MotionEvent

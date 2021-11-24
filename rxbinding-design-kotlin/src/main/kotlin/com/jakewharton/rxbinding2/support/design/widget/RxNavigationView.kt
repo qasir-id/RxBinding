@@ -2,8 +2,8 @@
 
 package com.jakewharton.rxbinding2.support.design.widget
 
-import android.support.annotation.CheckResult
-import android.support.design.widget.NavigationView
+import androidx.annotation.CheckResult
+import com.google.android.material.navigation.NavigationView
 import android.view.MenuItem
 import io.reactivex.Observable
 import kotlin.Suppress

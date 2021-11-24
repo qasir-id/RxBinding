@@ -2,8 +2,8 @@
 
 package com.jakewharton.rxbinding2.support.v7.widget
 
-import android.support.annotation.CheckResult
-import android.support.v7.widget.Toolbar
+import androidx.annotation.CheckResult
+import androidx.appcompat.widget.Toolbar
 import android.view.MenuItem
 import com.jakewharton.rxbinding2.internal.AnyToUnit
 import io.reactivex.Observable

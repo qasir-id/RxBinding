@@ -2,8 +2,8 @@
 
 package com.jakewharton.rxbinding2.support.v7.widget
 
-import android.support.annotation.CheckResult
-import android.support.v7.widget.SearchView
+import androidx.annotation.CheckResult
+import androidx.appcompat.widget.SearchView
 import com.jakewharton.rxbinding2.InitialValueObservable
 import io.reactivex.functions.Consumer
 import kotlin.Boolean

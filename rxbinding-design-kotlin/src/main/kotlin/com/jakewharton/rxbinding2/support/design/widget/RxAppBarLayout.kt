@@ -2,8 +2,8 @@
 
 package com.jakewharton.rxbinding2.support.design.widget
 
-import android.support.annotation.CheckResult
-import android.support.design.widget.AppBarLayout
+import androidx.annotation.CheckResult
+import com.google.android.material.appbar.AppBarLayout
 import io.reactivex.Observable
 import kotlin.Int
 import kotlin.Suppress

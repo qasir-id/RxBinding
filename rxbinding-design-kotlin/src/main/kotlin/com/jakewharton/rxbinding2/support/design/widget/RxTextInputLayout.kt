@@ -2,8 +2,8 @@
 
 package com.jakewharton.rxbinding2.support.design.widget
 
-import android.support.annotation.CheckResult
-import android.support.design.widget.TextInputLayout
+import androidx.annotation.CheckResult
+import com.google.android.material.textfield.TextInputLayout
 import io.reactivex.functions.Consumer
 import kotlin.Deprecated
 import kotlin.Int

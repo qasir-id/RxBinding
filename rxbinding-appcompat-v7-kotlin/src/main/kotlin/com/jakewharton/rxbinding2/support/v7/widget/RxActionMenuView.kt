@@ -2,8 +2,8 @@
 
 package com.jakewharton.rxbinding2.support.v7.widget
 
-import android.support.annotation.CheckResult
-import android.support.v7.widget.ActionMenuView
+import androidx.annotation.CheckResult
+import androidx.appcompat.widget.ActionMenuView
 import android.view.MenuItem
 import io.reactivex.Observable
 import kotlin.Suppress

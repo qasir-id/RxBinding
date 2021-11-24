@@ -2,7 +2,7 @@
 
 package com.jakewharton.rxbinding2.view
 
-import android.support.annotation.CheckResult
+import androidx.annotation.CheckResult
 import android.view.ViewGroup
 import io.reactivex.Observable
 import kotlin.Suppress
